@@ -1,0 +1,6 @@
+1,ProductA,10.99
+2
+3,Product3,9.99
+4
+5,ProductD,15.99
+6,ProductE,10.99

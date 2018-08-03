@@ -1,0 +1,5 @@
+
+Item: Fridge  Value: $24
+Item: Toilet  Value: $5
+Item: Fryer  Value: $10
+Item: Tv  Value: $500

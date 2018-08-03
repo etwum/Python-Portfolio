@@ -1,0 +1,9 @@
+Item Name: fridge
+Item Value: $9.99
+
+Item Name: fridge
+Item Value: $999.0
+
+Item Name: tv
+Item Value: $300.0
+
